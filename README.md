@@ -1,4 +1,4 @@
-# Hi, I'm Marina 👋
+# Hi, I'm Maryna Ishchenko 👋
 
 Software Developer focused on building modern web applications using JavaScript and React.
 
