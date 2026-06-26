@@ -1,16 +1,12 @@
 # Hi, I'm Maryna Ishchenko 👋
 
-Software Developer focused on building modern web applications using JavaScript and React.
+Software Developer focused on building modern full-stackn web applications using React, Next.js and Node.js.
 
 ## Tech Stack
 
-JavaScript • TypeScript • React • Next.js • Zustand  
+React • Next.js  • Node.js • TypeScript • JavaScript • Zustand  
 HTML • CSS • Sass • REST APIs  
 Git • GitHub • Vercel
-
-## Currently Learning
-
-Node.js and backend development concepts.
 
 ## Projects
 
