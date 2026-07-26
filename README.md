@@ -1,6 +1,6 @@
 # Hi, I'm Maryna Ishchenko 👋
 
-Software Developer focused on building modern full-stackn web applications using React, Next.js and Node.js.
+Software Developer focused on building modern full-stack web applications using React, Next.js and Node.js.
 
 ## Tech Stack
 
